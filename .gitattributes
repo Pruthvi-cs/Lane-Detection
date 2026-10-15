@@ -1,0 +1,4 @@
+Dataset/**/*.png filter=lfs diff=lfs merge=lfs -text
+Dataset/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+Dataset/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+Dataset/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
